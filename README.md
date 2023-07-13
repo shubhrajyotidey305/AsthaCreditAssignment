@@ -1,5 +1,15 @@
 # Astha Credit Assignment
 
+## To start:
+1. Go to the 'server' folder.
+2. Open terminal.
+3. Type 'dart run bin/server.dart'
+
+## To stop:
+1. Go to the 'server' folder
+2. Open terminal
+3. Press 'Ctrl + C'
+
 Problem Statement:
 Design and implement a to-do application backend API that supports the following features:
 ● User Management:
